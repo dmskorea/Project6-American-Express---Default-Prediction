@@ -5,7 +5,7 @@
 <hr />
 공지사항(22.7.3)
 <hr />
-1. 미팅 간격은 2주간격
+1. 미팅 간격은 2주
 2. 진행사항 프레젠테이션 (텍스트파일도 OK) 
 3. 미팅 종료 후 Done(2주간진행내용) / Todo(2주간 진행할 내용) 구글 시트에 작성 요망
    https://docs.google.com/spreadsheets/d/13seldUdlQIFgzjZb-ukfmC3vQBsHUNY0RD3QekgCgpI/edit?usp=sharing
