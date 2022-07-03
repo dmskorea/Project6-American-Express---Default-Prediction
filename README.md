@@ -5,14 +5,13 @@
 <hr />
 공지사항(22.7.3)
 <hr />
-1. 미팅 간격은 2주
-2. 진행사항 프레젠테이션 (텍스트파일도 OK) 
-3. 미팅 종료 후 Done(2주간진행내용) / Todo(2주간 진행할 내용) 구글 시트에 작성 요망
-   https://docs.google.com/spreadsheets/d/13seldUdlQIFgzjZb-ukfmC3vQBsHUNY0RD3QekgCgpI/edit?usp=sharing
-   
-4. 다음 미팅: 7월 17일
-   - 데이터 탐색 결과 혹은 캐글러의 아이디어 등을 활용해 베이스라인 모델 만들기
-5. 향후 일정 : 
+1. 미팅 간격은 2주  
+2. 진행사항 프레젠테이션 (텍스트파일도 OK)  
+3. 미팅 종료 후 Done(2주간진행내용) / Todo(2주간 진행할 내용) 구글 시트에 작성 요망  
+   https://docs.google.com/spreadsheets/d/13seldUdlQIFgzjZb-ukfmC3vQBsHUNY0RD3QekgCgpI/edit?usp=sharing  
+4. 다음 미팅: 7월 17일  
+   - 데이터 탐색 결과 혹은 캐글러의 아이디어 등을 활용해 베이스라인 모델 만들기  
+5. 향후 일정 :  
    - 베이스라인 모델 설정 및 공유 : 3차 미팅(7.17)
    - single 모델 최적화1(모델 튜닝, 파생변수 생성, 변수선택 등 적용) : 4차 미팅(7.31)
    - single 모델 최적화2 & 협업(앙상블) 모델 적용1 : 5차 미팅(8.14)
